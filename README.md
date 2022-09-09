@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi 👋
 
-<!--
-**ViktoriaBors/ViktoriaBors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am Viktoria
+1. Passionate web developer.
+2. A geologist, environmental engineer and chemist.
 
-Here are some ideas to get you started:
+I started my web development journey a few years back, next to a full time work. Now I am determined to make a career change and be a full time web developer. My main focus is front end, but I got some insight to back end technology (NodeJS/ExpressJS) during a project. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here is some short facts about me:
+- 🌱 I’m currently learning Javascript and React. 
+- 😄 I’m proud of the "SpaceRock" - JSExamProject (see https://github.com/ViktoriaBors/JSExamProject). It was a really challenging full stack project.
+- ⚡ I’m a morning person, I like to listen music during study and work.
+
+
+## Let’s connect   📫
+
+<a href="https://www.linkedin.com/in/viktoria-b-pajuste/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Viktoria" height="30" width="40" /></a>
