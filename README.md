@@ -8,7 +8,7 @@ I started my web development journey a few years back, next to a full time work.
 
 Here is some short facts about me:
 - 🌱 I’m currently learning Javascript and React. 
-- 😄 I’m proud of the "SpaceRock" - JSExamProject (see https://github.com/ViktoriaBors/JSExamProject). It was a really challenging full stack project.
+- 😄 I’m proud of the "SpaceRock" - JSExamProject (see https://github.com/ViktoriaBors/SpaceRock). It was a really challenging full stack project.
 - ⚡ I’m a morning person, I like to listen music during study and work.
 
 
