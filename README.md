@@ -14,7 +14,7 @@ Why am I a career changer? I am originally an experienced geologist and environm
 
 
 Here is some other short facts about me:
-- 🌱 I’m currently learning Javascript and React. 
+- 🌱 I’m currently learning Javascript and React. See my journey here: https://github.com/ViktoriaBors/learningReact  
 - 😄 I’m proud of the "SpaceRock" - JSExamProject (see https://github.com/ViktoriaBors/SpaceRock). It was a really challenging full stack project.
 - ⚡ I’m a morning person, I like to listen music during study and work.
 
