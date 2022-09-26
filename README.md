@@ -12,7 +12,7 @@ Why am I a career changer? I am originally an experienced geologist and environm
 **Here is some other facts about me:**
 - 🔭 I’m currently working on **Track Down Bill (bill tracking app)**
 
-- 🌱 I’m currently learning **React**, See my journey here: https://github.com/ViktoriaBors/learningReact or https://dev.to/viktoriabors
+- 🌱 I’m currently learning **Vue**, See my journey here: https://github.com/ViktoriaBors/frameworks or https://dev.to/viktoriabors
 
 - 👨‍💻 My latest project is **SpaceRock** - a full stack project written with vanilla JS, NodeJS, MongoDB. See it on https://spacerock.onrender.com/index
 
