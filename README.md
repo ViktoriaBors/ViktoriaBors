@@ -10,7 +10,7 @@ Study at a bootcamp, learn more myself, practice a lot, contribute to other proj
 Why am I a career changer? I am originally an experienced geologist and environmental engineer with many years of environmental laboratory work such as asbestos identification, sample preparation and usage of laboratory instruments such as ICP and GC.
 
 **Here is some other facts about me:**
-- 🔭 I’m currently working on **Track Down Bill (bill tracking app)**
+- 🔭 I’m currently working on **Track Down Bill (bill tracking app)**, see on https://github.com/ViktoriaBors/trackDownBill
 
 - 🌱 I’m currently learning **Vue**, See my journey here: https://github.com/ViktoriaBors/frameworks or https://dev.to/viktoriabors
 
