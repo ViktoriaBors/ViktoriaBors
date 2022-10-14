@@ -1,11 +1,18 @@
 # Hi  👋
 
 ## I am Viktoria
-Entry level / Career changer web developer, who is ready to take all the challenges within the industry. My main focus is on JavaScript and React, but I am familiar with Node JS as a back end technology. 
+Entry level / Career changer web developer, who is ready to take all the challenges within the industry. My main focus is on JavaScript and Vue, but I am familiar with Node JS as a back end technology with Mongo Db. 
 
-I started my web development journey a few years back (2020-2021), next to a full time work. Now I am determined to make it as a career. *What is my plan to reach that?* 
+I started my web development journey a few years back (2020-2021), during maternity leave.I am determined to make it as a successful career. 
 
-Study at a bootcamp, learn more myself, practice a lot, contribute to other projects and do own projects. My brain is like a sponge and still able to absorb more information. Until now I have made a few bigger and many small projects. Moreover I have hosted a "JS seance" to my classmates during the JavaScript module at ProOktatas bootcamp, where we did pair-coding, solved our homework together and tried to explain some theory to each other. 
+*What is my plan to reach that?* 
+
+- Study and finish bootcam and different courses.
+- Learn more myself, practice a lot.
+- Learning by "teaching" or helping to my fellow mates.
+- Contribute to other projects and do own projects. 
+
+Until now I have made a few bigger and many small projects. I also host a "JS seance" to my classmates at ProOktatas bootcamp, where we do pair-coding, solve homeworks together and explain some theory to each other. 
 
 Why am I a career changer? I am originally an experienced geologist and environmental engineer with many years of environmental laboratory work such as asbestos identification, sample preparation and usage of laboratory instruments such as ICP and GC.
 
