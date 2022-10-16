@@ -7,9 +7,9 @@ I started my web development journey a few years back (2020-2021), during matern
 
 *What is my plan to reach that?* 
 
-- Study and finish bootcam and different courses.
+- Study and finish bootcamp and different courses.
 - Learn more myself, practice a lot.
-- Learning by "teaching" or helping to my fellow mates.
+- Learning by "teaching" and helping to my fellow mates.
 - Contribute to other projects and do own projects. 
 
 Until now I have made a few bigger and many small projects. I also host a "JS seance" to my classmates at ProOktatas bootcamp, where we do pair-coding, solve homeworks together and explain some theory to each other. 
