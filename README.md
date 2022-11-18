@@ -21,7 +21,7 @@ Why am I a career changer? I am originally an experienced geologist and environm
 
 - 🌱 I’m currently learning **Vue**, See my journey here: https://github.com/ViktoriaBors/frameworks or https://dev.to/viktoriabors
 
-- 👨‍💻 My latest project is **SpaceRock** - a full stack project written with vanilla JS, NodeJS, MongoDB. See it on https://spacerock.onrender.com/index
+- 👨‍💻 My latest project is **SpaceRock** - a full stack project originally was written with vanilla JS, NodeJS, MongoDB.Now I have updated the project in Vue framework on the frontend. See it on [https://spacerock.onrender.com/index](https://spacerockvue.onrender.com/)
 
 - ⚡ Fun fact **I am a morning person**
 #
