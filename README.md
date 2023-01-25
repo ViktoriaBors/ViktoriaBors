@@ -1,23 +1,20 @@
 # Hi  👋
 
 ## I am Viktoria
-Entry level / Career changer web developer, who is ready to take all the challenges within the industry. My main focus is on JavaScript and Vue, but I am familiar with Node JS as a back end technology with Mongo Db. 
+I'm a web dev newbie, ready to take on any challenge the industry throws at me. My main focus is on **JavaScript and Vue**, but I can also handle Node.js and MongoDB.
 
-I started my web development journey a few years back (2020-2021), during maternity leave.I am determined to make it as a successful career. 
+I began my web development journey during my maternity leave in 2020-2021, and I was determined to make it a successful career.
 
-*What is my plan to reach that?* 
+To reach my goal, I have been hitting the books and finishing bootcamp and different courses. I've been practicing a lot, and learning by doing, teaching and helping my fellow mates. I have been contributing to other projects and doing my own projects. I was able to host a "JS seance" for my classmates at ProOktatas bootcamp, where we did pair-coding, solved homeworks together and explained some theory to each other. It's like a mini-bootcamp within a bootcamp.
 
-- Study and finish bootcamp and different courses.
-- Learn more myself, practice a lot.
-- Learning by "teaching" and helping to my fellow mates.
-- Contribute to other projects and do own projects. 
+My hard work paid off, now I'm working for a company that builds web apps and software platforms for insurance companies. My job is to update product descriptions and implement new products by working on both the backend and frontend. On the backend, I use web services to make updates and on the frontend, I make sure the new products are visible on the user interface. The project is built using Vue.js and Node.js.
 
-Until now I have made a few bigger and many small projects. I also host a "JS seance" to my classmates at ProOktatas bootcamp, where we do pair-coding, solve homeworks together and explain some theory to each other. 
+Fun fact, I am a morning person, which means I'm always the first one to debug the code, and the last one to go to bed.
 
-Why am I a career changer? I am originally an experienced geologist and environmental engineer with many years of environmental laboratory work such as asbestos identification, sample preparation and usage of laboratory instruments such as ICP and GC.
+So, to sum it up, I am a career changer who started as a geologist and environmental engineer, but now I am a web developer with a lot of experience, a lot of hard work, and a lot of caffeine.
 
 **Here is some other facts about me:**
-- 🔭 I’m currently working on **Track Down Bill (bill tracking app)**, see on https://github.com/ViktoriaBors/trackDownBill
+- 🔭 I’m currently working on **My portfolio**, see on https://www.viktoria-pajuste.hu/
 
 - 🌱 I’m currently learning **Vue**, See my journey here: https://github.com/ViktoriaBors/frameworks or https://dev.to/viktoriabors
 
