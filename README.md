@@ -1,13 +1,15 @@
 # Hi  👋
 
 ## I am Viktoria
-I'm a web dev newbie, ready to take on any challenge the industry throws at me. My main focus is on **JavaScript and Vue**, but I can also handle Node.js and MongoDB.
+I am a multifaceted individual with a unique background that sets me apart in the tech industry. I hold a degree in Geology and Environmental Engineering, and I am proud to say that I am a wife and mother. 
 
-I began my web development journey during my maternity leave in 2020-2021, and I was determined to make it a successful career.
+During my maternity leave in 2020-2021, I embarked on a new journey as a self-taught/bootcamp web developer. I am passionate about the field and am dedicated to continuously improving my skills. My primary focus is on **JavaScript and Vue**, but I am also proficient in **Node.js and MongoDB**. I am now expanding my knowledge to **PHP and MySQL** as the final module of a bootcamp program. This has allowed me to broaden my skill set and become even more versatile in the industry. 
 
-To reach my goal, I have been hitting the books and finishing bootcamp and different courses. I've been practicing a lot, and learning by doing, teaching and helping my fellow mates. I have been contributing to other projects and doing my own projects. I was able to host a "JS seance" for my classmates at ProOktatas bootcamp, where we did pair-coding, solved homeworks together and explained some theory to each other. It's like a mini-bootcamp within a bootcamp.
+I have also been actively pursuing additional courses to further broaden my knowledge. These courses include game development with Pixi.Js, Vue.Js course and becoming a Google IT Support Specialist. The latest course have provided me with valuable tools for understanding various network protocols, mastering Linux command lines, gaining proficiency in the Windows operating system, and enhancing my skills in system administration. I believe that staying informed and continuously learning is essential for success in the tech industry.
 
-My hard work paid off, now I'm working for a company that builds web apps and software platforms for insurance companies. My job is to update product descriptions and implement new products by working on both the backend and frontend. On the backend, I use web services to make updates and on the frontend, I make sure the new products are visible on the user interface. The project is built using Vue.js and Node.js.
+While participating in the bootcamp, I had the opportunity to host a "JS seance" for my fellow classmates at ProOktatas. The session was designed to be a collaborative and interactive experience, where we engaged in pair-coding, solved homeworks together, and explained various theories to one another. It was like having a mini-bootcamp within the main bootcamp program and provided a great opportunity for us to work together, support each other, and deepen our understanding of the material. I am grateful for this experience and believe that such hands-on learning and collaboration are crucial for growth and success in the field.
+
+My dedication and effort have paid off and I am now employed at a company that specializes in building web applications and software platforms for insurance companies. In my role, I am responsible for updating product descriptions and implementing new products. This requires me to work on both the backend and frontend of the project, using web services to make updates on the backend and ensuring the new products are seamlessly integrated into the user interface on the frontend. The project is developed using the technologies such as Vue.js and Node.js, and I am proud to be a part of a team that is leading the way in innovation in the industry.
 
 Fun fact, I am a morning person, which means I'm always the first one to debug the code, and the last one to go to bed.
 
@@ -16,9 +18,9 @@ So, to sum it up, I am a career changer who started as a geologist and environme
 **Here is some other facts about me:**
 - 🔭 I’m currently working on **My portfolio**, see on https://www.viktoria-pajuste.hu/
 
-- 🌱 I’m currently learning **Vue**, See my journey here: https://github.com/ViktoriaBors/frameworks or https://dev.to/viktoriabors
+- 🌱 As a junior developer, I am constantly deepening my understanding of **Vue** by working with it on a daily basis. Additionally, I am currently in the process of learning **PHP and MySQL** to further expand my skill set. You can follow my daily journey and updates on https://dev.to/viktoriabors
 
-- 👨‍💻 My latest project is **SpaceRock** - a full stack project originally was written with vanilla JS, NodeJS, MongoDB.Now I have updated the project in Vue framework on the frontend. See it on [https://spacerockvue.onrender.com](https://spacerockvue.onrender.com/)
+- 👨‍💻 My recent project is SpaceRock, a full-stack project that was initially written using vanilla JavaScript, Node.js, and MongoDB. I have since updated the project, incorporating the Vue framework on the frontend. You can check out the updated version a [https://spacerockvue.onrender.com](https://spacerockvue.onrender.com/)
 
 - ⚡ Fun fact **I am a morning person**
 #
