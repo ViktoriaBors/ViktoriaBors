@@ -1,19 +1,17 @@
 # Hi  👋
 
-## I am Viktoria
-I am a multifaceted individual with a unique background that sets me apart in the tech industry. I hold a degree in Geology and Environmental Engineering, and I am proud to say that I am a wife and mother. 
+## I am Viktoria - From Lab to WEB
+**JavaScript | Vue | NodeJS** 
 
-During my maternity leave in 2020-2021, I embarked on a new journey as a self-taught/bootcamp web developer. I am passionate about the field and am dedicated to continuously improving my skills. My primary focus is on **JavaScript and Vue**, but I am also proficient in **Node.js and MongoDB**. I am now expanding my knowledge to **PHP and MySQL** as the final module of a bootcamp program. This has allowed me to broaden my skill set and become even more versatile in the industry. 
+I am a multifaceted professional with a unique background in the tech industry. I hold a degree in Geology and Environmental Engineering.
 
-I have also been actively pursuing additional courses to further broaden my knowledge. These courses include game development with Pixi.Js, Vue.Js course and becoming a Google IT Support Specialist. The latest course have provided me with valuable tools for understanding various network protocols, mastering Linux command lines, gaining proficiency in the Windows operating system, and enhancing my skills in system administration. I believe that staying informed and continuously learning is essential for success in the tech industry.
+I aspire to continue growing as a web developer and expanding my skill set. I plan to stay passionate about the field and constantly work towards improving my skills in **JavaScript, Vue and Node.js, MongoDB**. 
 
-While participating in the bootcamp, I had the opportunity to host a "JS seance" for my fellow classmates at ProOktatas. The session was designed to be a collaborative and interactive experience, where we engaged in pair-coding, solved homeworks together, and explained various theories to one another. It was like having a mini-bootcamp within the main bootcamp program and provided a great opportunity for us to work together, support each other, and deepen our understanding of the material. I am grateful for this experience and believe that such hands-on learning and collaboration are crucial for growth and success in the field.
+I'm currently completing a bootcamp in **PHP and MySQL**, and I have pursued additional courses in game development and in IT Support field. I'm now working on a project as a web developer, responsible for implementing new products and updating product descriptions using Vue.js and Node.js.
 
-My dedication and effort have paid off and I am now employed at a company that specializes in building web applications and software platforms for insurance companies. In my role, I am responsible for updating product descriptions and implementing new products. This requires me to work on both the backend and frontend of the project, using web services to make updates on the backend and ensuring the new products are seamlessly integrated into the user interface on the frontend. The project is developed using the technologies such as Vue.js and Node.js, and I am proud to be a part of a team that is leading the way in innovation in the industry.
+As a morning person, I am always the first to tackle debugging.
 
-Fun fact, I am a morning person, which means I'm always the first one to debug the code, and the last one to go to bed.
-
-So, to sum it up, I am a career changer who started as a geologist and environmental engineer, but now I am a web developer with a lot of experience, a lot of hard work, and a lot of caffeine.
+In summary, I am a career changer, previously working as a geologist and environmental engineer, but now I am a web developer with ample experience, a strong work ethic, and a love for caffeine.
 
 **Here is some other facts about me:**
 - 🔭 I’m currently working on **My portfolio**, see on https://www.viktoria-pajuste.hu/
