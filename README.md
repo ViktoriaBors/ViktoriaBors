@@ -3,20 +3,22 @@
 ## I am Viktoria - From Lab to WEB
 **JavaScript | Vue | NodeJS** 
 
-I am a multifaceted professional with a unique background in the tech industry, having transitioned from Geology and Environmental Engineering to become a web developer. My passion for technology has led me to constantly expand my skill set and strive for growth in my field.
+As a multifaceted professional, I made a captivating transition from Geology and Environmental Engineering to the dynamic world of development. With a strong passion for technology, I continuously expand my skill set and strive for growth in my field.
 
-Currently, I am focused on enhancing my expertise in **JavaScript, Vue**, to remain at the forefront of the industry. I completed a full-stack bootcamp program where I honed my skills in **HTML, CSS, JS, PHP, and MySQL**. I have also pursued additional courses in game development and IT support to complement my knowledge and improve my proficiency.
+I completed a comprehensive full-stack bootcamp program where I honed my skills in **HTML, CSS, JavaScript, PHP, and MySQL**. Additionally, I pursued further courses in game development and IT support, complementing my knowledge and improving my proficiency. Currently, I am enrolled in a comprehensive **C#** bootcamp that covers all aspects of C# programming, including its various applications.
 
-Currently, I am working remotely as a **junior developer** for a Hungarian company that specializes in creating web applications for purchasing different types of insurances. In this role, I work extensively with Vue and JavaScript on a daily basis, furthering my practical experience in web development.
+I gained practical experience as a Junior JavaScript developer for a Hungarian company, Formula 400 Kft. In this role, I worked extensively with  **Vue and JavaScript**, contributing to the creation of web applications for purchasing different types of insurances.
 
-As a morning person, I am always the first to tackle debugging.
+Presently, I am a full-stack developer at Solid Software Development Aps, a Danish company. Here, I work with **Delphi** and play a key role in enhancing PharmaFakt, a veterinary pharmacy administration system.
 
-In summary, I am a career changer, previously working as a geologist and environmental engineer, but now I am a web developer with ample experience, a strong work ethic, and a love for caffeine.
+As a morning person, I eagerly embrace the challenge of debugging, always aiming to be the first to tackle any issues that arise.
+
+In summary, I am a career changer, having transitioned from the fields of geology and environmental engineering to become a skilled developer. With ample experience, a strong work ethic, and a love for caffeine, I bring dedication and passion to every project.
 
 **Here is some other facts about me:**
 - 🔭 I’m currently fine adjusting **My portfolio**, see on https://www.viktoria-pajuste.hu/
 
-- 🌱 As a junior developer, I am constantly deepening my understanding of **Vue** by working with it on a daily basis. You can follow my daily journey and updates on https://dev.to/viktoriabors
+- 🌱 As a junior developer, I am constantly deepening my understanding of **JavaScript and Delphi** by working with it on a daily basis. You can follow my daily journey and updates on https://dev.to/viktoriabors
 
 - 👨‍💻 My latest full stack project is Multilingual online children library. The frontend is written in Vue Js with PHP, MySQL backend. You can check it out  [https://online-library-ochre.vercel.app/](https://online-library-ochre.vercel.app/)
 
