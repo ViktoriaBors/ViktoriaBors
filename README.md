@@ -1,63 +1,43 @@
 # Hi  👋
 
-## I am Viktoria - From Lab to WEB
-**JavaScript | Vue | C# | Delphi** 
+## I am Viktoria - From Lab to WEB/DEV
+**Full-Stack Developer | Software Developer | Delphi | C# | JavaScript | Vue js** 
+ 
 
-As a multifaceted professional, I made a captivating transition from Geology and Environmental Engineering to the dynamic world of development. With a strong passion for technology, I continuously expand my skill set and strive for growth in my field.
+Greetings! I'm a multifaceted professional who successfully transitioned from Geology and Environmental Engineering to the dynamic realm of software development. My journey reflects a deep passion for technology, constant skill expansion, and an unwavering commitment to personal and professional growth.
 
-I completed a comprehensive full-stack bootcamp program where I honed my skills in **HTML, CSS, JavaScript, PHP, and MySQL**. Additionally, I pursued further courses in game development and IT support, complementing my knowledge and improving my proficiency. Currently, I am enrolled in a comprehensive **C#** bootcamp that covers all aspects of C# programming, including its various applications.
+🎓 Continuous Learning and Skill Development
+I completed an intensive full-stack bootcamp, mastering HTML, CSS, JavaScript, PHP, and MySQL. Expanding my horizons, I delved into game development and IT support courses, further enriching my knowledge and proficiency. Currently, I'm immersed in a comprehensive C# bootcamp, exploring the diverse applications of this powerful programming language.
 
-I gained practical experience as a Junior JavaScript developer for a Hungarian company, Formula 400 Kft. In this role, I worked extensively with  **Vue and JavaScript**, contributing to the creation of web applications for purchasing different types of insurances.
+💼 Professional Experience
+Previously, I worked as a junior JavaScript developer at Formula 400 Kft, a Hungarian company. Specializing in Vue and JavaScript, I contributed significantly to the development of web applications for insurance transactions.
+Today, I proudly serve as a full-stack developer at Solid Software Development Aps. In this role, I play a important part in elevating PharmaFakt, a veterinary pharmacy administration system, utilizing my expertise in Delphi.
 
-Presently, I am a full-stack developer at Solid Software Development Aps, a Danish company. Here, I work with **Delphi** and play a key role in enhancing PharmaFakt, a veterinary pharmacy administration system.
+🛠️ Key Strengths
+As a morning person, I thrive on the challenge of debugging, consistently aiming to be the first to tackle any issues that arise. 
 
-As a morning person, I eagerly embrace the challenge of debugging, always aiming to be the first to tackle any issues that arise.
+Let's connect! Feel free to reach out for engaging conversations on web and software development or any environment-related questions. I look forward to connecting with like-minded professionals and exploring the endless possibilities our discussions may unfold.
 
-In summary, I am a career changer, having transitioned from the fields of geology and environmental engineering to become a skilled developer. With ample experience, a strong work ethic, and a love for caffeine, I bring dedication and passion to every project.
+Skills: software developent, webdevelopment, frontend development, delphi, c#, JavaScript, Vue JS, PHP, Mongo DB, MySQL, Firebird
 
-**Here is some other facts about me:**
-- 🔭 I’m currently fine adjusting **My portfolio**, see on https://www.viktoria-pajuste.hu/
 
-- 🌱 As a junior developer, I am constantly deepening my understanding of **JavaScript and Delphi** by working with it on a daily basis. You can follow my daily journey and updates on https://dev.to/viktoriabors
+# 💫 About Me:
+-🔭 I’m currently fine adjusting **My portfolio**, see on https://www.viktoria-pajuste.hu/<br><br>- 🌱 As a junior developer, I am constantly deepening my understanding of **JavaScript, C# and Delphi** by working with it on a daily basis. You can follow my daily journey and updates on https://dev.to/viktoriabors<br><br>- 👨‍💻 My latest full stack project is It Management System (desktop application), written in C# and using MySQL database.<br><br>- ⚡ Fun fact **I am a morning person**
 
-- 👨‍💻 My latest full stack project is Multilingual online children library. The frontend is written in Vue Js with PHP, MySQL backend. You can check it out  [https://online-library-ochre.vercel.app/](https://online-library-ochre.vercel.app/)
 
-- 👨‍💻 My first full stack project is SpaceRock, which was initially written using vanilla JavaScript, Node.js, and MongoDB. I have since updated the project, incorporating the Vue framework on the frontend. You can check out the updated version a [https://spacerockvue.onrender.com](https://spacerockvue.onrender.com/)
-
-- ⚡ Fun fact **I am a morning person**
-#
-
-## Let’s connect   📫
+## 🌐 Socials:
 <p align="left">
 <a href="https://dev.to/viktoriabors" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="viktoriabors" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/viktoria-b-pajuste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viktoria-b-pajuste" height="30" width="40" /></a>
 </p>
 
-#
-
-## Languages and Tools
-<p align="center"> 
-
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" /></a>            
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="c sharp" width="40" height="40" /></a>    
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <a href="https://www.embarcadero.com/products/delphi" target="_blank" rel="noreferrer">
-<img src="https://dtffvb2501i0o.cloudfront.net/images/logos/logo-page/delphi-logo-1024.png" alt="delphi" width="40" height="40" /></a>    
+<img src="https://dtffvb2501i0o.cloudfront.net/images/logos/logo-page/delphi-logo-1024.png" alt="delphi" width="40" height="40" /></a>  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktoriaBors&theme=lightk&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</p> 
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-#
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viktoriabors&show_icons=true&locale=en&layout=compact" alt="viktoriabors" /></p>
